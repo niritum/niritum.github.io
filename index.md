@@ -1,14 +1,14 @@
 ---
 layout: cv
 # optional alternate title to replace page.title at the top of the page
-alt_title: "Basically Basic"
+alt_title: "Pavel Kuznetsov"
 
 # optional sub-title below the page title
-sub_title: "The name says it all"
+sub_title: "CV"
 
 # optional intro text below titles, Markdown allowed
 introduction: |
-    Basically Basic is a Jekyll theme meant to be a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found in Minima are fully supported by **Basically Basic**.
+    Welcome.
 ---
 
 # CV
