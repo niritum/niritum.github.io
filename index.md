@@ -1,6 +1,7 @@
 ---
 layout: post
 alt_title: "Pavel Kuznetsov CV"
+title: CV
 ---
 
 # Tele2
