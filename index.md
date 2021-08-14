@@ -1,4 +1,5 @@
 ---
+
 layout: cv
 # optional alternate title to replace page.title at the top of the page
 alt_title: "Pavel Kuznetsov"
@@ -9,9 +10,8 @@ sub_title: "CV"
 # optional intro text below titles, Markdown allowed
 introduction: |
     Welcome.
+    
 ---
-
-# CV
 
 # Tele2
 
