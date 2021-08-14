@@ -1,8 +1,12 @@
 ---
-layout: post
-alt_title: "Pavel Kuznetsov CV"
-title: CV
+title: Pavel Kuznetsov Curriculum Vitæ
+layout: cv
+actions:
+  - label: "Скачать в PDF"
+    icon: pdf
+    url: "#pdf-asset"
 ---
+
 
 # Tele2
 
