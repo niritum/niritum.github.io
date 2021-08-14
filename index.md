@@ -1,10 +1,11 @@
 ---
-title: Pavel Kuznetsov Curriculum Vitæ
+title: Pavel Kuznetsov
+sub_title:  Curriculum Vitæ
 layout: cv
 actions:
   - label: "Скачать в PDF"
     icon: pdf
-    url: "#pdf-asset"
+    url: "KuznetsovPM_CV.pdf"
 ---
 
 
