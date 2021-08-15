@@ -5,7 +5,7 @@ layout: page
 actions:
   - label: "Скачать в PDF"
     icon: pdf
-    url: "KuznetsovPM_CV.pdf"
+    url: "_data/KuznetsovPM_CV.pdf"
 ---
 
 
