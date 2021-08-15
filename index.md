@@ -1,7 +1,7 @@
 ---
 title: Pavel Kuznetsov
 sub_title:  Curriculum Vitæ
-layout: cv
+layout: page
 actions:
   - label: "Скачать в PDF"
     icon: pdf
