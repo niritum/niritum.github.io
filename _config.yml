@@ -12,5 +12,15 @@ plugins:
  - jekyll-sitemap
  - jekyll-paginate
  
-paginate: 5  # amount of posts to show per page
+paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
