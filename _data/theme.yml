@@ -24,7 +24,7 @@ t:
   min_read: "min read"
   present: "Present"
   cv_awards: "Awards"
-  # cv_summary_contact: "Contact"
+  cv_summary_contact: null
   cv_summary_contact_email: "Email"
   cv_summary_contact_phone: "Phone"
   cv_summary_contact_website: "Website"
