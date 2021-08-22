@@ -23,4 +23,4 @@ defaults:
       read_time: true
  
 paginate: 10  # amount of posts to show per page
-paginate_path: "/_posts/page:num/"
+paginate_path: /page:num/
