@@ -41,7 +41,7 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Fira Sans"
     weights: "400,400i,600,600i"
 
 # Link to specific internal pages in the navigation.
