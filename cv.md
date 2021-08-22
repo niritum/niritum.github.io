@@ -1,13 +1,12 @@
----
-title: Pavel Kuznetsov
-sub_title:  Curriculum Vitæ
-layout: page
+---    
+title: Curriculum Vitæ
+sub_title:  CV
+layout: cv
 actions:
-  - label: "Скачать в PDF"
+  - label: "Download as PDF"
     icon: pdf
-    url: "docs/KuznetsovPM_CV.pdf"
+    url: "docs/KuznetsovPM_CV.pdf"    
 ---
-
 
 # Tele2
 
