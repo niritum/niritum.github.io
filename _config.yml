@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: null
+title: Niritum
 description: "The future is already here"
 baseurl: "/niritum.github.io"
 url: "https://niritum.com"
