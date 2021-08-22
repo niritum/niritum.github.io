@@ -50,3 +50,5 @@ google_fonts:
 
 navigation_pages:
   - cv.md
+  - tags.md
+  - categories.md
