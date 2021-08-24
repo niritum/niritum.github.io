@@ -104,6 +104,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  jekyll
   minimal-mistakes-jekyll
 
 BUNDLED WITH
