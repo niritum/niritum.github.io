@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: niritum
 minimal_mistakes_skin: default
 search: true
+show_downloads: true
 
 # Build settings
 markdown: kramdown
