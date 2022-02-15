@@ -17,7 +17,7 @@ Mermaid — инструмент для построения диаграмм и
 
 Следующий блок кода срендерится в полноценную диаграмму, содержимое которой можно будет динамически менять:
 
-````mermaid
+````mermaid 
 sequenceDiagram
 Alice->>John: Hello John, how are you?
 loop Healthcheck
