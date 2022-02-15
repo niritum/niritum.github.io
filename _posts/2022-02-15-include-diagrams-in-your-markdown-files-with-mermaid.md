@@ -2,7 +2,7 @@
 title: "В GitHub добавили поддержку диаграмм Mermaid"
 share: false
 categories:
-  - github
+  - posts
 tags:
   - github
 ---
