@@ -1,10 +1,11 @@
 ---
 title: "Карта компетенций аналитика"
-share: false
+share: true
 categories:
   - posts
 tags:
-  - github
+  - analysis
+  - competency
 ---
 
 1. Чек-лист для самодиагностики БА, но есть и часть пунктов по СА - https://bit.ly/2yRkrdq (для работы в файле его нужно скопировать на свой гугл-диск)
