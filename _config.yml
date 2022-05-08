@@ -23,7 +23,7 @@ search: true
 show_downloads: true
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
 
 # Conversion
 markdown: kramdown
