@@ -23,7 +23,7 @@ search: true
 show_downloads: true
 
 # Build settings
-# remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 
 # Conversion
 markdown: kramdown
@@ -108,5 +108,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-theme: jekyll-theme-cayman
