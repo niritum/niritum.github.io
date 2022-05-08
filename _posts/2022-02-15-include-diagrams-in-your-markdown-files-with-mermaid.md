@@ -1,10 +1,11 @@
 ---
 title: "В GitHub добавили поддержку диаграмм Mermaid"
-share: false
+share: true
 categories:
   - posts
 tags:
   - github
+  - mermaid
 ---
 
 В GitHub [появилась](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/) возможность добавлять в md-файлы динамические диаграммы с помощью генератора [Mermaid](https://github.com/mermaid-js/mermaid#readme). До этого диаграммы вставлялись в виде изображений или «рисовались» с помощью символов из ASCII-таблицы. Теперь же полноценную поддержку схем добавили в синтаксис разметки Markdown.
