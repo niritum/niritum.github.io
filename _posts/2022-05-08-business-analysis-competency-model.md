@@ -1,5 +1,5 @@
 ---
-title: "В GitHub добавили поддержку диаграмм Mermaid"
+title: "Карта компетенций аналитика"
 share: false
 categories:
   - posts
