@@ -31,6 +31,7 @@ tags:
 5. [Пробный тест от Neoflex](https://forms.gle/KwRxFu5KGmcUEEKD7)
 6. [Брайан Кукси. An introduction to APIs](https://zapier.com/learn/apis/)
 7. [Чем различаются Kafka и RabbitMQ: простыми словами](https://habr.com/ru/company/innotech/blog/698838/)
+8. [Введение в REST API — RESTful веб-сервисы](https://habr.com/ru/post/483202/)
 
 ## Дополнительно по SQL
 1. [Интерактивный тренажер SQL на степике](https://stepik.org/course/63054/syllabus)
