@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Niritum
 title_separator: "-"
-subtitle: "Essense after the fire"
+subtitle: "Essence after the fire"
 logo: "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 description: >- # this means to ignore newlines until "baseurl:"
   The future is already here
